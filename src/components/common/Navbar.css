@@ -1,0 +1,15 @@
+.margin-right {
+  margin-right: 20px;
+}
+
+.custom-nav {
+  margin: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  top: 0;
+}
+
+.custom-nav + div {
+  margin-top: 80px;
+}

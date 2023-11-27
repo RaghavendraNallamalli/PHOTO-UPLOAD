@@ -1,0 +1,20 @@
+#footer {
+  background-color: rgb(12, 3, 3);
+  padding: 0 20px;
+  color: rgb(254, 253, 253);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ffffff;
+  color: #080707;
+  text-align: center;
+  padding: 0.5px 0;
+}
